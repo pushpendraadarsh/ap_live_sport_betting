@@ -1,0 +1,12 @@
+.icons * {
+  font-size: 45px;
+  padding: 5px;
+}
+
+.icons.whatsapp {
+  color: green;
+}
+
+.icons.user {
+  color: white;
+}
